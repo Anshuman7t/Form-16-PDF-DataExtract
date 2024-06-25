@@ -1,0 +1,1 @@
+A Python script to extract and parse tax details from a Form 16 PDF file using pdfplumber and regular expressions.
