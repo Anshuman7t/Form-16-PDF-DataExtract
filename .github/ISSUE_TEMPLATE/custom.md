@@ -1,4 +1,13 @@
 ---
+name: Custom issue template
+about: This template will help standardize the information provided in issues, making
+  it easier to understand and reproduce problems.
+title: bug_report.md
+labels: ''
+assignees: ''
+
+---
+
 ## Issue Summary
 
 Please provide a brief summary of the issue.
@@ -37,7 +46,3 @@ If you have any ideas on how to resolve this issue, please provide details.
 ## Additional Context
 
 Please add any other context about the problem here.
-
----
-
-
