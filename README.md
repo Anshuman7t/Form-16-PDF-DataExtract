@@ -155,6 +155,14 @@ print(json.dumps(tax_details, indent=4))
 
 **Contributing**
 
+- **Improving Regular Expressions**: Enhance the accuracy and coverage of the regular expressions used for extracting tax details.
+- **Handling Edge Cases**: Identify and handle various edge cases where the PDF structure may vary.
+- **Extending Tax Details Extraction**: Add support for extracting additional tax details or other relevant information from Form 16.
+- **Performance Optimization**: Improve the performance of the script, especially for large or complex PDF files.
+- **Documentation**: Improve or expand the documentation, including usage examples, edge cases, and detailed explanations.
+- **Unit Tests**: Add unit tests to ensure the script works correctly under various conditions.
+- **GUI Development**: Develop a simple graphical user interface for users who are not comfortable with running scripts from the command line.
+
 Feel free to fork this repository, make your changes, and submit a pull request. We welcome contributions to improve this script.
 
 License
