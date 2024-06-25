@@ -105,4 +105,3 @@ def extract_tax_details(pdf_text, pdf_tables):
 
 pdf_text, pdf_tables = extract_form16_data(user_file)
 tax_details = extract_tax_details(pdf_text, pdf_tables)
-print(json.dumps(tax_details, indent=4))
