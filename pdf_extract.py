@@ -3,7 +3,7 @@ import re
 import json
 
 
-user_file = r"C:\Users\anshu\OneDrive\Desktop\chaku\w-2 chatbot\sampleform16.pdf"
+user_file = r"C:\file_path\sampleform16.pdf"
 
 def extract_form16_data(user_file):
     text = ""
