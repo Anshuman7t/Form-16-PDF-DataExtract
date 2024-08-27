@@ -18,7 +18,7 @@ json
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/form16-data-extraction.git
+git clone https://github.com/anshuman7t/form16-data-extraction.git
 Navigate to the repository directory:
 cd form16-data-extraction
 
